@@ -1,5 +1,6 @@
-class hello
+class world
 {
+	void main()
 }	
 
 
